@@ -1,3 +1,2 @@
 #!/bin/bash
-if [ id -un == "guillaume" ];
-then chown betty hello
+if [ id -un == "guillaume" ]; then chown betty hello
