@@ -1,2 +1,2 @@
 #!/bin/bash
-chown betty hello [if [ id -un == "guillaume" ]]
+id -un == "guillaume" chown betty hello 
