@@ -13,7 +13,7 @@
 3. Manipulating Files
    > commands: cp, mv, rm, mkdir 
 
-4> Working with Commands
+4. Working with Commands
    > commands like: type, which, help, man 
 
 5. Reading Man Pages
