@@ -32,14 +32,12 @@ Write a script that creates an empty file called hello.
 5. Execute
 mandatory
 Write a script that adds execute permission to the owner of the file hello.
-
 - The file hello will be in the working directory
 # File: 5-execute
 
 6. Multiple permissions
 mandatory
 Write a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
-
 - The file hello will be in the working directory
 # File: 6-multiple_permissions
 
@@ -78,8 +76,7 @@ Write a script that sets the mode of the file hello the same as olleh’s mode.
 11. Directories
 mandatory
 Create a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
-
-Regular files should not be changed.
+- Regular files should not be changed.
 # File: 11-directories_permissions
 
 12. More directories
