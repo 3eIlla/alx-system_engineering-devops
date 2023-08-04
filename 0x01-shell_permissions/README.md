@@ -86,7 +86,6 @@ Create a script that creates a directory called my_dir with permissions 751 in t
 
 13. Change group
 mandatory
-Score: 0.0% (Checks completed: 0.0%)
 Write a script that changes the group owner to school for the file hello
 - The file hello will be in the working directory
 # File: 13-change_group
