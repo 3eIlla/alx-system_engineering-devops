@@ -4,8 +4,8 @@
 - All your scripts should be exactly two lines long ($ wc -l file should print 2)
 - All your files should end with a new line (why?)
 - The first line of all your files should be exactly #!/bin/bash
-- You are not allowed to use backticks, &&, || or ;
-- All your scripts must be executable. To make your file executable, 
+\* You are not allowed to use backticks, &&, || or ;
+\* All your scripts must be executable. To make your file executable, 
     > use the chmod command: chmod u+x file. Later, we’ll learn more about how to utilize this command.
 
 0. Where am I?

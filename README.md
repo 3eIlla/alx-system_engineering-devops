@@ -1,5 +1,9 @@
 
 * *the main task of this repository*
+# THE P.I.W::
+\# A README.md file, at the root of the folder of the project, describing what each script is doing \#
+\* Allowed editors: vi, vim, emacs \*
+\! All your scripts will be tested on Ubuntu 20.04 LTS \!
 # Learning Objectives::
 0. General concepts:
     > Shebang, Shell & shell prompt
@@ -34,12 +38,16 @@
    - print real and effective user and group IDs
    - print the groups a user is in
    - print the effective userid
+   - represent each of the three sets of permissions (owner, group, and other) as a single digit
+   - permissions, owner and group of a file 
+   - run a command with root privileges
+   - change user ID or become superuser
 
 > How to: 
-      - display a line of text
-      - concatenate files and print on the standard output
-      - reverse a string
-      - remove sections from each line of files
+   - display a line of text
+   - concatenate files and print on the standard output
+   - reverse a string
+   - remove sections from each line of files
 
 *THE END*
 

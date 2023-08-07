@@ -27,7 +27,7 @@ Display the content of the /etc/passwd file.
 3. What about 2?
 mandatory
 Display the content of /etc/passwd and /etc/hosts
-#File: 3-twofiles
+# File: 3-twofiles
 
 4. Last lines of a file
 mandatory
@@ -175,7 +175,7 @@ An acrostic is a poem (or other form of writing) in which the first letter (or s
 > Create a script that decodes acrostics that use the first letter of each line.
 - The ‘decoded’ message has to end with a new line
 \* You are not allowed to use grep, egrep, fgrep or rgrep
-#File: 102-acrostic
+# File: 102-acrostic
 
 26. The biggest fan
 \#advanced\#
