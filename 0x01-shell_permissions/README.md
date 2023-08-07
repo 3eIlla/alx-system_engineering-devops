@@ -1,6 +1,11 @@
 
 * *each script main task::*
 # rules:
+\! All your scripts should be exactly two lines long ($ wc -l file should print 2)
+\! All your files should end with a new line (why?)
+\! The first line of all your files should be exactly #!/bin/bash
+\* You are not allowed to use backticks, &&, || or ;
+\* All your files must be executable
 
 0. My name is Betty
 mandatory
@@ -91,12 +96,12 @@ Write a script that changes the group owner to school for the file hello
 # File: 13-change_group
 
 14. Owner and group
-#advanced
+\#advanced
 Write a script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
 # File: 100-change_owner_and_group
 
 15. Symbolic links
-#advanced
+\#advanced
 Write a script that changes the owner and the group owner of _hello to vincent and staff respectively.
 
 - The file _hello is in the working directory
@@ -104,13 +109,13 @@ Write a script that changes the owner and the group owner of _hello to vincent a
 # File: 101-symbolic_link_permissions
 
 16. If only
-#advanced
+\#advanced
 Write a script that changes the owner of the file hello to betty only if it is owned by the user guillaume.
 - The file hello will be in the working directory
 # File: 102-if_only
 
 17. Star Wars
-#advanced
+\#advanced
 Write a script that will play the StarWars IV episode in the terminal.
 # File: 103-Star_Wars
 
